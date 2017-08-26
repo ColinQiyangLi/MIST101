@@ -1,5 +1,5 @@
 # MIST101
-Tutorials for MIST101 course
+Tutorials for MIST101 course (modified from Tensorflow Tutorials: https://www.tensorflow.org/get_started)
 
 ## Installing Dependencies
 
